@@ -1,2 +1,3 @@
-enum ViewState { ideal, busy }
-enum AuthState { authenticated, unAuthenticated }
+class PrefsKey {
+  static const String authorLevel = 'author_level';
+}

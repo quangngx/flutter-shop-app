@@ -19,7 +19,6 @@ class ImageHelper {
           width: width,
           height: height,
           fit: fit ?? BoxFit.contain,
-          color: tintColor,
           alignment: alignment ?? Alignment.center,
         ),
       );

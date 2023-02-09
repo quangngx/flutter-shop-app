@@ -10,7 +10,6 @@ class LogHelper {
       return;
     }
 
-    // ignore: avoid_print
-    print('$prefix $content');
+    debugPrint('$prefix $content');
   }
 }

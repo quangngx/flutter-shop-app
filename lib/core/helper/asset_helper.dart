@@ -1,5 +1,4 @@
 mixin AssetHelper {
-  //Assets in icons
   static const String icoAvatar = 'assets/icon/ico_avatar.png';
   static const String icoProfile = 'assets/icon/ico_profile.png';
   static const String icoWelcome = 'assets/icon/ico_welcome.png';
@@ -77,7 +76,6 @@ mixin AssetHelper {
   static const String icoBoldUnsaved = 'assets/icon/bold/ico_unsaved.png';
   static const String icoBoldWarning = 'assets/icon/bold/ico_warning.png';
 
-  //Assets in images
   static const String slide1 = 'assets/slide1.png';
   static const String slide2 = 'assets/slide2.png';
   static const String slide3 = 'assets/slide3.png';
